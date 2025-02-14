@@ -93,6 +93,8 @@ public class NewTest {
 		logOut.click();
 		Thread.sleep(3000);
 		driver.quit();
+		
+		System.out.println(" This is the data");
 	}
 
 }
